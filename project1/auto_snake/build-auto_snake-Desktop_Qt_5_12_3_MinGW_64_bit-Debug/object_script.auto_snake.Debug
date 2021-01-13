@@ -1,0 +1,12 @@
+debug/food.o
+debug/foodnode.o
+debug/main.o
+debug/mainwindow.o
+debug/snake.o
+debug/snakenode.o
+debug/wallnode.o
+debug/moc_foodnode.o
+debug/moc_mainwindow.o
+debug/moc_snake.o
+debug/moc_snakenode.o
+debug/moc_wallnode.o

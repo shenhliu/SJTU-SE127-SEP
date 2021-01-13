@@ -1,0 +1,11 @@
+debug/console.o
+debug/evalstate.o
+debug/exp.o
+debug/main.o
+debug/mainwindow.o
+debug/parser.o
+debug/program.o
+debug/statement.o
+debug/tokenizer.o
+debug/moc_console.o
+debug/moc_mainwindow.o

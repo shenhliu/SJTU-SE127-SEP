@@ -1,0 +1,11 @@
+release/console.o
+release/evalstate.o
+release/exp.o
+release/main.o
+release/mainwindow.o
+release/parser.o
+release/program.o
+release/statement.o
+release/tokenizer.o
+release/moc_console.o
+release/moc_mainwindow.o

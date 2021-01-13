@@ -1,0 +1,17 @@
+debug/food.o
+debug/foodnode.o
+debug/main.o
+debug/mainwindow.o
+debug/snake1.o
+debug/snake2.o
+debug/snake2node.o
+debug/snakenode.o
+debug/wall.o
+debug/wallnode.o
+debug/moc_foodnode.o
+debug/moc_mainwindow.o
+debug/moc_snake1.o
+debug/moc_snake2.o
+debug/moc_snake2node.o
+debug/moc_snakenode.o
+debug/moc_wallnode.o

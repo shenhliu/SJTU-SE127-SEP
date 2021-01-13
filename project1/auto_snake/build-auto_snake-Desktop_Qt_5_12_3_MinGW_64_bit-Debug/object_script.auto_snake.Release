@@ -1,0 +1,12 @@
+release/food.o
+release/foodnode.o
+release/main.o
+release/mainwindow.o
+release/snake.o
+release/snakenode.o
+release/wallnode.o
+release/moc_foodnode.o
+release/moc_mainwindow.o
+release/moc_snake.o
+release/moc_snakenode.o
+release/moc_wallnode.o
