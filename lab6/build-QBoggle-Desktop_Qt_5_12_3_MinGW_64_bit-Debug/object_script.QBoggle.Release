@@ -1,0 +1,15 @@
+release/main.o
+release/BoggleWindow.o
+release/WordListWidget.o
+release/Board.o
+release/WordTable.o
+release/Console.o
+release/Cube.o
+release/lexicon.o
+release/qrc_EnglishWords.o
+release/moc_BoggleWindow.o
+release/moc_WordListWidget.o
+release/moc_Board.o
+release/moc_WordTable.o
+release/moc_Console.o
+release/moc_Cube.o

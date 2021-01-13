@@ -1,0 +1,15 @@
+debug/main.o
+debug/BoggleWindow.o
+debug/WordListWidget.o
+debug/Board.o
+debug/WordTable.o
+debug/Console.o
+debug/Cube.o
+debug/lexicon.o
+debug/qrc_EnglishWords.o
+debug/moc_BoggleWindow.o
+debug/moc_WordListWidget.o
+debug/moc_Board.o
+debug/moc_WordTable.o
+debug/moc_Console.o
+debug/moc_Cube.o
